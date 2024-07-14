@@ -1,6 +1,5 @@
 package com.hscastro.hexagonal.config;
 
-import com.hscastro.hexagonal.adapters.out.FindCustumerByIdAdapter;
 import com.hscastro.hexagonal.application.core.usecase.FindCustumerByIdUseCase;
 import com.hscastro.hexagonal.application.ports.out.FindCustumerByIdOuputPort;
 import org.springframework.context.annotation.Bean;
